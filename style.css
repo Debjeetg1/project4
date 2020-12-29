@@ -1,0 +1,31 @@
+*{
+    padding: 0.1%;
+    margin: 0.1%;
+}
+
+.header-1{
+    padding: 1.5%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: grey;
+    color: white;
+
+}
+
+body{
+    background: rgb(126, 201, 226);
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 2rem;
+}
+hr{
+    color: white;
+    background-color: white;
+    
+}
+
+a{
+    display: grid;
+    font-weight: bold;
+    font-size: 1rem;
+    justify-content: space-between ;
+}
